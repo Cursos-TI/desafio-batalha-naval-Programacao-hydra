@@ -33,6 +33,8 @@ int main(){
         
     }
 
+
+
     // coordenadas iniciais (0-based)
     int linhaInicialH = 2 - 1;     // navio horizontal começa na linha 2
     int colunaInicialH = 3 - 1;    // começa na coluna 3
